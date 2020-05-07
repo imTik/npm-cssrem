@@ -1,6 +1,6 @@
 {
   "name": "cssrem",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "css layout",
   "main": "index.js",
   "scripts": {
